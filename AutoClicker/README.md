@@ -1,6 +1,6 @@
 
 Run it through Powershell or CMD with the command:
-  python py3-auto-clicker.py 
+  python python AutoClicker
 
 Current autoclicker controls:
   * Start Auto-Clicking: **Shift + Q**
