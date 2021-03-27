@@ -15,5 +15,5 @@ if not os.path.isfile("used"):
 	x = f.readline()	
 	print("Hey " , x , "Hope your good")
 	f = open("used" , "w")
-	f.close
+	f.close()
 
